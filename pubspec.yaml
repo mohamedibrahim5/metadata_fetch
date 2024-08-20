@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   http: ^1.2.2
-  string_validator: ^0.3.0
+  string_validator: ^1.1.0
   html: ^0.15.0
 
 dev_dependencies:
